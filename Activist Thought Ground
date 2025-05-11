@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Philosophy – Activist Thought Ground</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      color: #222;
+      line-height: 1.7;
+    }
+    h1, h2 {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.3rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .intro {
+      margin-bottom: 2rem;
+      font-size: 1.1em;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Activist Thought Ground</h1>
+<p class="intro">
+  This section serves as a reflective ground for philosophical inquiry, ethical clarity, and existential questioning arising from the path of animal advocacy.
+  It archives dialogues, inner reasoning, and moral structure-building from the perspective of one who refuses to turn away.
+</p>
+
+<h2>Subpages</h2>
+<ul>
+  <li><a href="sentience_vs_utilitarianism.html">Sentience vs. Utilitarian Calculus</a> – Why pain, not productivity, must define worth.</li>
+  <li><a href="rodent_ethics_visibility.html">The Ethics of the Unseen: Rats and the Politics of Erasure</a></li>
+  <li><a href="freedom_and_flesh.html">Freedom, Flesh, and the Myth of Consent</a> – On agency under domestication.</li>
+  <li><a href="the_problem_of_silence.html">The Problem of Silence</a> – What it means to witness ethically.</li>
+  <li><a href="city_as_killing_structure.html">The City as Killing Structure</a> – Reflections on urban environments and invisible suffering.</li>
+  <li><a href="hope_and_failure.html">Hope and Failure in Ethical Action</a> – Why we act even when we expect to lose.</li>
+</ul>
+
+<p>More pages will be added as reflections deepen and dialogues continue. This is not a place of answers, but of structural echoes.</p>
+
+<p><a href="index.html">← Back to Main Site</a></p>
+
+</body>
+</html>
